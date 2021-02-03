@@ -40,5 +40,8 @@
     },
     "componentsDefaultDirectory": "components/{name}",
     "packageManager": "yarn"
+  },
+  "devDependencies": {
+    "react-scripts": "^4.0.1"
   }
 }

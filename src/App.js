@@ -1,16 +1,23 @@
 import React from 'react';
-import ProductList from './components/product-list';
-import TopBar from './components/top-bar';
-import './App.css';
+import { ThemeProvider } from '@material-ui/core/styles';
+import CssBaseline from '@material-ui/core/CssBaseline';
+import DialogContent from '@material-ui/core/DialogContent';
+import TopBar from '@bit/thirosue.react-tutorial.top-bar';
+import Footer from '@bit/thirosue.react-tutorial.footer';
+import theme from './theme';
 
 function App() {
   return (
-    <>
-      <TopBar className="top-bar" />
-      <div className="container">
-        <ProductList />
-      </div>
-    </>
+    <ThemeProvider theme={theme}>
+      <CssBaseline />
+      <>
+        <TopBar className="top-bar" />
+        <DialogContent>
+          Content
+        </DialogContent>
+        <Footer />
+      </>
+    </ThemeProvider>
   );
 }
 
