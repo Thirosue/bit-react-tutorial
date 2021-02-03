@@ -9,19 +9,19 @@ export const items = [
     id: 1,
     title: 'Phone XL',
     imagePath: '/static/1.jpg',
-    description: 'A large phone with one of the best screens'
+    description: 'A 1st phone with one of the best screens'
   },
   {
     id: 2,
     title: 'Phone Mini',
     imagePath: '/static/2.jpg',
-    description: 'A great phone with one of the best cameras'
+    description: 'A 2nd phone with one of the best cameras'
   },
   {
     id: 3,
     title: 'Phone Standard',
     imagePath: '/static/3.jpg',
-    description: 'A standard phone with one of the best cameras'
+    description: 'A 3rd phone with one of the best cameras'
   }
 ];
 
