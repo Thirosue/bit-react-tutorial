@@ -1,35 +1,24 @@
+## Step5
+
+```
+% bit import thirosue.react-tutorial/card
+
+successfully ran yarn install at /Users/hirosue/workspace/bit-react-tutorial
+
+successfully imported one component
+- up to date thirosue.react-tutorial/card
+```
+
+* modify to use the modules that App.js.
+
+```javascript
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
 import BaseTemplate from '@bit/thirosue.react-tutorial.base-template';
 import Card from '@bit/thirosue.react-tutorial.card';
 
-export const items = [
-  {
-    id: 1,
-    title: 'Phone XL',
-    imagePath: '/static/1.jpg',
-    description: 'A large phone with one of the best screens'
-  },
-  {
-    id: 2,
-    title: 'Phone Mini',
-    imagePath: '/static/2.jpg',
-    description: 'A great phone with one of the best cameras'
-  },
-  {
-    id: 3,
-    title: 'Phone Standard',
-    imagePath: '/static/3.jpg',
-    description: 'A standard phone with one of the best cameras'
-  }
-];
-
-const useStyles = makeStyles({
-  root: {
-    margin: '1rem 0'
-  },
-});
+// abridgement
 
 function App() {
   const classes = useStyles();
@@ -52,3 +41,4 @@ function App() {
 }
 
 export default App;
+```
