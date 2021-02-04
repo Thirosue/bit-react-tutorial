@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a4137e4.chunk.css",
-    "main.js": "/static/js/main.94f23bfa.chunk.js",
-    "main.js.map": "/static/js/main.94f23bfa.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.59c925d9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.59c925d9.js.map",
-    "static/js/2.acd62c6e.chunk.js": "/static/js/2.acd62c6e.chunk.js",
-    "static/js/2.acd62c6e.chunk.js.map": "/static/js/2.acd62c6e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.4a4137e4.chunk.css.map": "/static/css/main.4a4137e4.chunk.css.map",
-    "static/js/2.acd62c6e.chunk.js.LICENSE.txt": "/static/js/2.acd62c6e.chunk.js.LICENSE.txt"
+    "main.css": "/bit-react-tutorial/static/css/main.4a4137e4.chunk.css",
+    "main.js": "/bit-react-tutorial/static/js/main.760f81d3.chunk.js",
+    "main.js.map": "/bit-react-tutorial/static/js/main.760f81d3.chunk.js.map",
+    "runtime-main.js": "/bit-react-tutorial/static/js/runtime-main.f0788834.js",
+    "runtime-main.js.map": "/bit-react-tutorial/static/js/runtime-main.f0788834.js.map",
+    "static/js/2.acd62c6e.chunk.js": "/bit-react-tutorial/static/js/2.acd62c6e.chunk.js",
+    "static/js/2.acd62c6e.chunk.js.map": "/bit-react-tutorial/static/js/2.acd62c6e.chunk.js.map",
+    "index.html": "/bit-react-tutorial/index.html",
+    "static/css/main.4a4137e4.chunk.css.map": "/bit-react-tutorial/static/css/main.4a4137e4.chunk.css.map",
+    "static/js/2.acd62c6e.chunk.js.LICENSE.txt": "/bit-react-tutorial/static/js/2.acd62c6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.59c925d9.js",
+    "static/js/runtime-main.f0788834.js",
     "static/js/2.acd62c6e.chunk.js",
     "static/css/main.4a4137e4.chunk.css",
-    "static/js/main.94f23bfa.chunk.js"
+    "static/js/main.760f81d3.chunk.js"
   ]
 }
