@@ -1116,12 +1116,12 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@bit/thirosue.react-tutorial.base-template@^0.0.1":
-  version "0.0.1"
-  resolved "https://node.bit.dev/thirosue.react-tutorial.base-template/-/thirosue.react-tutorial.base-template-0.0.1.tgz#65356d9da38fc93816331073c99d71e269cc7b86"
-  integrity sha1-ZTVtnaOPyTgWMxBzyZ1x4mnMe4Y=
+"@bit/thirosue.react-tutorial.base-template@^0.0.2":
+  version "0.0.2"
+  resolved "https://node.bit.dev/thirosue.react-tutorial.base-template/-/thirosue.react-tutorial.base-template-0.0.2.tgz#0a8b39e18b211cff63f247b3477487d3b09ddfab"
+  integrity sha1-Cos54YshHP9j8kezR3SH07Cd36s=
   dependencies:
-    "@bit/thirosue.react-tutorial.footer" "0.0.1"
+    "@bit/thirosue.react-tutorial.footer" "0.0.2"
     "@bit/thirosue.react-tutorial.top-bar" "0.0.1"
     "@material-ui/core" "^4.11.3"
 
@@ -1132,10 +1132,10 @@
   dependencies:
     "@material-ui/core" "^4.11.3"
 
-"@bit/thirosue.react-tutorial.footer@0.0.1", "@bit/thirosue.react-tutorial.footer@^0.0.1":
-  version "0.0.1"
-  resolved "https://node.bit.dev/thirosue.react-tutorial.footer/-/thirosue.react-tutorial.footer-0.0.1.tgz#6cf048924a5343f70a8e7d44d5184044d2d8604a"
-  integrity sha1-bPBIkkpTQ/cKjn1E1RhARNLYYEo=
+"@bit/thirosue.react-tutorial.footer@0.0.2", "@bit/thirosue.react-tutorial.footer@^0.0.2":
+  version "0.0.2"
+  resolved "https://node.bit.dev/thirosue.react-tutorial.footer/-/thirosue.react-tutorial.footer-0.0.2.tgz#e4da077e43a2d727817c33e4d4126343bc631d6b"
+  integrity sha1-5NoHfkOi1yeBfDPk1BJjQ7xjHWs=
   dependencies:
     "@bit/thirosue.react-tutorial.text-field" "0.0.1"
     "@bit/thirosue.react-tutorial.typography" "0.0.1"

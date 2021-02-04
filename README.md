@@ -8,7 +8,7 @@ Atomic Designの設計に則り、簡単な画面の作成手順を紹介しま�
 
 https://thirosue.github.io/bit-react-tutorial/.
 
-![The index page of the tutorial app](https://thirosue.github.io/hosting-image/other/bit-react-tutorial.png "The index page of the tutorial app")
+![The index page of the tutorial app](https://thirosue.github.io/hosting-image/bit-react-tutorial/bit-react-tutorial.png "The index page of the tutorial app")
 
 ## 概要
 
