@@ -8,19 +8,19 @@ export const items = [
   {
     id: 1,
     title: 'Phone XL',
-    imagePath: 'bit-react-tutorial/static/1.jpg',
+    imagePath: 'https://thirosue.github.io/hosting-image/bit-react-tutorial/1.jpg',
     description: 'A 1st phone with one of the best screens'
   },
   {
     id: 2,
     title: 'Phone Mini',
-    imagePath: 'bit-react-tutorial/static/2.jpg',
+    imagePath: 'https://thirosue.github.io/hosting-image/bit-react-tutorial/2.jpg',
     description: 'A 2nd phone with one of the best cameras'
   },
   {
     id: 3,
     title: 'Phone Standard',
-    imagePath: 'bit-react-tutorial/static/3.jpg',
+    imagePath: 'https://thirosue.github.io/hosting-image/bit-react-tutorial/3.jpg',
     description: 'A 3rd phone with one of the best cameras'
   }
 ];
