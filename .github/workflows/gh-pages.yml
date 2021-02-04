@@ -14,10 +14,11 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v1
         with:
-          node-version: '12.x'
+          node-version: "12.x"
 
       - run: node -v
       - run: yarn -v
+      - run: npm config set @bit:registry https://node.bit.dev
       - run: yarn
       - run: yarn build
 

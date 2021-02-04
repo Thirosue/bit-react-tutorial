@@ -1116,6 +1116,56 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
+"@bit/thirosue.react-tutorial.base-template@^0.0.1":
+  version "0.0.1"
+  resolved "https://node.bit.dev/thirosue.react-tutorial.base-template/-/thirosue.react-tutorial.base-template-0.0.1.tgz#65356d9da38fc93816331073c99d71e269cc7b86"
+  integrity sha1-ZTVtnaOPyTgWMxBzyZ1x4mnMe4Y=
+  dependencies:
+    "@bit/thirosue.react-tutorial.footer" "0.0.1"
+    "@bit/thirosue.react-tutorial.top-bar" "0.0.1"
+    "@material-ui/core" "^4.11.3"
+
+"@bit/thirosue.react-tutorial.card@^0.0.1":
+  version "0.0.1"
+  resolved "https://node.bit.dev/thirosue.react-tutorial.card/-/thirosue.react-tutorial.card-0.0.1.tgz#4041202449adbd0e40f9d4ecbf3fcdedc221ad84"
+  integrity sha1-QEEgJEmtvQ5A+dTsvz/N7cIhrYQ=
+  dependencies:
+    "@material-ui/core" "^4.11.3"
+
+"@bit/thirosue.react-tutorial.footer@0.0.1", "@bit/thirosue.react-tutorial.footer@^0.0.1":
+  version "0.0.1"
+  resolved "https://node.bit.dev/thirosue.react-tutorial.footer/-/thirosue.react-tutorial.footer-0.0.1.tgz#6cf048924a5343f70a8e7d44d5184044d2d8604a"
+  integrity sha1-bPBIkkpTQ/cKjn1E1RhARNLYYEo=
+  dependencies:
+    "@bit/thirosue.react-tutorial.text-field" "0.0.1"
+    "@bit/thirosue.react-tutorial.typography" "0.0.1"
+    "@material-ui/core" "^4.11.3"
+
+"@bit/thirosue.react-tutorial.text-field@0.0.1", "@bit/thirosue.react-tutorial.text-field@^0.0.1":
+  version "0.0.1"
+  resolved "https://node.bit.dev/thirosue.react-tutorial.text-field/-/thirosue.react-tutorial.text-field-0.0.1.tgz#fef6da4ddfc7f5f2da6a17e9afcc41193aa5bd06"
+  integrity sha1-/vbaTd/H9fLaahfpr8xBGTqlvQY=
+  dependencies:
+    "@material-ui/core" "^4.11.3"
+    clsx "1.1.1"
+    prop-types "^15.7.2"
+
+"@bit/thirosue.react-tutorial.top-bar@0.0.1", "@bit/thirosue.react-tutorial.top-bar@^0.0.1":
+  version "0.0.1"
+  resolved "https://node.bit.dev/thirosue.react-tutorial.top-bar/-/thirosue.react-tutorial.top-bar-0.0.1.tgz#4cce92eeb6172a9cdee6e6e116705103376d0ef4"
+  integrity sha1-TM6S7rYXKpze5ubhFnBRAzdtDvQ=
+  dependencies:
+    "@material-ui/core" "^4.11.3"
+    "@material-ui/icons" "^4.11.2"
+
+"@bit/thirosue.react-tutorial.typography@0.0.1":
+  version "0.0.1"
+  resolved "https://node.bit.dev/thirosue.react-tutorial.typography/-/thirosue.react-tutorial.typography-0.0.1.tgz#5e7e35ee30b5a64e6f64b401132afc9c04114d78"
+  integrity sha1-Xn417jC1pk5vZLQBEyr8nAQRTXg=
+  dependencies:
+    "@material-ui/core" "^4.11.3"
+    prop-types "^15.7.2"
+
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@cnakazawa/watch/-/watch-1.0.4.tgz#f864ae85004d0fcab6f50be9141c4da368d1656a"
@@ -3244,7 +3294,7 @@ clone-deep@^4.0.1:
     kind-of "^6.0.2"
     shallow-clone "^3.0.0"
 
-clsx@^1.0.4:
+clsx@1.1.1, clsx@^1.0.4:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/clsx/-/clsx-1.1.1.tgz#98b3134f9abbdf23b2663491ace13c5c03a73188"
   integrity sha512-6/bPho624p3S2pMyvP5kKBPXnI3ufHLObBFCfgx+LkeR5lg2XYy2hqZqUf45ypD8COn2bhgGJSUE+l5dhNBieA==
