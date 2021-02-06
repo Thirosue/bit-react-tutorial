@@ -1116,7 +1116,16 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@bit/thirosue.react-tutorial.text-field@^0.0.1":
+"@bit/thirosue.react-tutorial.footer@^0.0.1":
+  version "0.0.1"
+  resolved "https://node.bit.dev/thirosue.react-tutorial.footer/-/thirosue.react-tutorial.footer-0.0.1.tgz#fe549b29647ab593d341ccd9481581d1411ea871"
+  integrity sha1-/lSbKWR6tZPTQczZSBWB0UEeqHE=
+  dependencies:
+    "@bit/thirosue.react-tutorial.text-field" "0.0.1"
+    "@bit/thirosue.react-tutorial.typography" "0.0.1"
+    "@material-ui/core" "^4.11.3"
+
+"@bit/thirosue.react-tutorial.text-field@0.0.1", "@bit/thirosue.react-tutorial.text-field@^0.0.1":
   version "0.0.1"
   resolved "https://node.bit.dev/thirosue.react-tutorial.text-field/-/thirosue.react-tutorial.text-field-0.0.1.tgz#fef6da4ddfc7f5f2da6a17e9afcc41193aa5bd06"
   integrity sha1-/vbaTd/H9fLaahfpr8xBGTqlvQY=
@@ -1125,7 +1134,15 @@
     clsx "1.1.1"
     prop-types "^15.7.2"
 
-"@bit/thirosue.react-tutorial.typography@^0.0.1":
+"@bit/thirosue.react-tutorial.top-bar@^0.0.1":
+  version "0.0.1"
+  resolved "https://node.bit.dev/thirosue.react-tutorial.top-bar/-/thirosue.react-tutorial.top-bar-0.0.1.tgz#4cce92eeb6172a9cdee6e6e116705103376d0ef4"
+  integrity sha1-TM6S7rYXKpze5ubhFnBRAzdtDvQ=
+  dependencies:
+    "@material-ui/core" "^4.11.3"
+    "@material-ui/icons" "^4.11.2"
+
+"@bit/thirosue.react-tutorial.typography@0.0.1", "@bit/thirosue.react-tutorial.typography@^0.0.1":
   version "0.0.1"
   resolved "https://node.bit.dev/thirosue.react-tutorial.typography/-/thirosue.react-tutorial.typography-0.0.1.tgz#5e7e35ee30b5a64e6f64b401132afc9c04114d78"
   integrity sha1-Xn417jC1pk5vZLQBEyr8nAQRTXg=
