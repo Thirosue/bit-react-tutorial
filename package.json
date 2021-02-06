@@ -4,9 +4,9 @@
   "private": true,
   "homepage": "https://thirosue.github.io/bit-react-tutorial/",
   "dependencies": {
-    "@bit/thirosue.react-tutorial.base-template": "^0.0.2",
+    "@bit/thirosue.react-tutorial.base-template": "^0.0.1",
     "@bit/thirosue.react-tutorial.card": "^0.0.1",
-    "@bit/thirosue.react-tutorial.footer": "^0.0.2",
+    "@bit/thirosue.react-tutorial.footer": "^0.0.1",
     "@bit/thirosue.react-tutorial.text-field": "^0.0.1",
     "@bit/thirosue.react-tutorial.top-bar": "^0.0.1",
     "@bit/thirosue.react-tutorial.typography": "0.0.1",
