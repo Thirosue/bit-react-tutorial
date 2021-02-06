@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/bit-react-tutorial/static/css/main.4a4137e4.chunk.css",
-    "main.js": "/bit-react-tutorial/static/js/main.e921179f.chunk.js",
-    "main.js.map": "/bit-react-tutorial/static/js/main.e921179f.chunk.js.map",
+    "main.js": "/bit-react-tutorial/static/js/main.0094b2fe.chunk.js",
+    "main.js.map": "/bit-react-tutorial/static/js/main.0094b2fe.chunk.js.map",
     "runtime-main.js": "/bit-react-tutorial/static/js/runtime-main.f0788834.js",
     "runtime-main.js.map": "/bit-react-tutorial/static/js/runtime-main.f0788834.js.map",
-    "static/js/2.5e570317.chunk.js": "/bit-react-tutorial/static/js/2.5e570317.chunk.js",
-    "static/js/2.5e570317.chunk.js.map": "/bit-react-tutorial/static/js/2.5e570317.chunk.js.map",
+    "static/js/2.3c6ba8be.chunk.js": "/bit-react-tutorial/static/js/2.3c6ba8be.chunk.js",
+    "static/js/2.3c6ba8be.chunk.js.map": "/bit-react-tutorial/static/js/2.3c6ba8be.chunk.js.map",
     "index.html": "/bit-react-tutorial/index.html",
     "static/css/main.4a4137e4.chunk.css.map": "/bit-react-tutorial/static/css/main.4a4137e4.chunk.css.map",
-    "static/js/2.5e570317.chunk.js.LICENSE.txt": "/bit-react-tutorial/static/js/2.5e570317.chunk.js.LICENSE.txt"
+    "static/js/2.3c6ba8be.chunk.js.LICENSE.txt": "/bit-react-tutorial/static/js/2.3c6ba8be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f0788834.js",
-    "static/js/2.5e570317.chunk.js",
+    "static/js/2.3c6ba8be.chunk.js",
     "static/css/main.4a4137e4.chunk.css",
-    "static/js/main.e921179f.chunk.js"
+    "static/js/main.0094b2fe.chunk.js"
   ]
 }
